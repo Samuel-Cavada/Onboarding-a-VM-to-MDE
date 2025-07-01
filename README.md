@@ -16,12 +16,12 @@
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 > Successfully onboard a Windows 10 virtual machine to Microsoft Defender for Endpoint (MDE), practice isolating the device from the network, and collect an investigation package for endpoint forensics.
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - **Platform:** Azure
 - **OS:** Windows 10
 - **Tools:** Microsoft Defender for Endpoint, Azure VM, PowerShell
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧠 Skills Gained / Focus Areas
+##  Skills Gained / Focus Areas
 - Onboarded a VM to MDE and verified success
 - Isolated a device using the MDE portal
 - Collected and inspected forensic investigation packages
@@ -37,14 +37,14 @@
 
 ---
 
-## 🧪 Environment Setup
+##  Environment Setup
 > Provisioned a secure Windows 10 VM in Azure. Downloaded and installed the MDE onboarding package using administrator privileges. Configured network and firewall rules to support testing and isolation behavior.
 
 ![Onboarding a VM to MDE - Image 0](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%200.jpg?raw=true)
 
 ---
 
-## 🛠️ Walkthrough
+## 🛠 Walkthrough
 1. [Step 1: Onboard the VM](#step-1-onboard-the-vm)
 2. [Step 2: Isolate the VM](#step-2-isolate-the-vm)
 3. [Step 3: Collect an Investigation Package](#step-3-collect-an-investigation-package)
@@ -108,7 +108,7 @@
 
 ---
 
-## 📝 Outcomes and Lessons Learned
+##  Outcomes and Lessons Learned
 - **Technical Insight:** Onboarding enables visibility into detailed endpoint activity and supports rapid investigation.
 - **Configuration Skills:** Managed onboarding, isolation, and package collection from the Defender portal.
 - **Troubleshooting:** Verified device connectivity, firewall settings, and package success using the MDE dashboard.
@@ -116,7 +116,7 @@
 
 ---
 
-## 📎 References
+##  References
 - [Microsoft Defender for Endpoint Portal](https://security.microsoft.com)
 - [MDE Onboarding Documentation](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-endpoints-mdc)
 - [MDE Investigation Package Details](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/investigation-packages)
