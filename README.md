@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Onboarding a VM to Microsoft Defender for Endpoint (MDE)</h1>
+<h1 align="center">Onboarding a VM to Microsoft Defender for Endpoint (MDE): VM Isolation and Investigation </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Platform" />
