@@ -40,7 +40,7 @@
 ## 🧪 Environment Setup
 > Provisioned a secure Windows 10 VM in Azure. Downloaded and installed the MDE onboarding package using administrator privileges. Configured network and firewall rules to support testing and isolation behavior.
 
-![Environment Setup](assets/images/setup.jpg)
+![Onboarding a VM to MDE - Image 0](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%200.jpg?raw=true)
 
 ---
 
