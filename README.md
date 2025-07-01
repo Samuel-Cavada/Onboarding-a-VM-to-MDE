@@ -99,7 +99,12 @@
 > - Once completed, downloaded the package  
 > - Unzipped and inspected artifacts such as logs, memory, registry, and binaries
 
-![Step 3](assets/images/step3.jpg)
+![Onboarding a VM to MDE - Image 11](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%2011.jpg?raw=true)
+
+![Onboarding a VM to MDE - Image 12](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%2012.jpg?raw=true)
+
+![Onboarding a VM to MDE - Image 13](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%2013.jpg?raw=true)
+
 
 ---
 
