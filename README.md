@@ -59,7 +59,11 @@
 > - Installed the package inside the VM (Right-click → Run as Administrator)  
 > - Verified onboarding success at **Assets → Devices**
 
-![Step 1](assets/images/step1.jpg)
+![Onboarding a VM to MDE - Image 1](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%201.jpg?raw=true)
+![Onboarding a VM to MDE - Image 2](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%202.jpg?raw=true)
+![Onboarding a VM to MDE - Image 3](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%203.jpg?raw=true)
+![Onboarding a VM to MDE - Image 4](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%204.jpg?raw=true)
+
 
 ---
 
