@@ -76,7 +76,16 @@
 > - Observed the ping drop due to isolation  
 > - Later: released the device from isolation for continued use
 
-![Step 2](assets/images/step2.jpg)
+![Onboarding a VM to MDE - Image 5](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%205.jpg?raw=true)
+
+![Onboarding a VM to MDE - Image 6](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%206.jpg?raw=true)
+
+![Onboarding a VM to MDE - Image 7](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%207.jpg?raw=true)
+
+![Onboarding a VM to MDE - Image 8](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%208.jpg?raw=true)
+
+![Onboarding a VM to MDE - Image 9](https://github.com/Samuel-Cavada/Onboarding-a-VM-to-MDE/blob/main/images/Onboarding-a-VM-to-MDE%209.jpg?raw=true)
+
 
 ---
 
